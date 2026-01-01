@@ -1,4 +1,4 @@
-package org.example.procedural;
+package org.example.Paradigmas.procedural;
 
 public class FolhaPagamentoProcedural {
 

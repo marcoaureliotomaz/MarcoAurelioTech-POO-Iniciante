@@ -1,4 +1,4 @@
-package org.example.poo;
+package org.example.Paradigmas.poo.poo;
 
 public class Estagiario implements Funcionario {
 
