@@ -1,4 +1,4 @@
-package org.example.funcional;
+package org.example.Paradigmas.funcional;
 
 import java.util.function.Function;
 
